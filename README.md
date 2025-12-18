@@ -37,7 +37,6 @@ The framework supports **policy-making, urban planning, and disaster risk reduct
 ├── flood risk data_new.xlsx   # Flood risk indicators
 ├── IMD_L1.xlsx                # Index of Multiple Deprivation data
 ├── IMD_L1.geojson             # Geographic boundaries
-├── 2381980.pdf                # Full MSc dissertation
 └── README.md                  # Project documentation
 ```
 
