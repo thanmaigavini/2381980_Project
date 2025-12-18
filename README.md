@@ -74,17 +74,6 @@ The framework supports **policy-making, urban planning, and disaster risk reduct
 
 ---
 
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/thanmaigavini/2381980Project.git
-cd 2381980Project
-pip install pandas numpy geopandas matplotlib seaborn scikit-learn folium jupyter
-jupyter notebook 2381980_CODE.ipynb
-```
-
----
-
 ## 👤 Author
 
 **Thanmai Gavini**  
