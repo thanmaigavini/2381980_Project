@@ -77,7 +77,7 @@ The framework supports **policy-making, urban planning, and disaster risk reduct
 ## 👤 Author
 
 **Thanmai Gavini**  
-MSc Engineering Mathematics  
+MSc Data Science  
 University of Bristol  
 
 Supervisor: **Prof. Leon Danon**
